@@ -1,5 +1,5 @@
 # NicoModpack
-##This is the modpack for the NicoModed Server
+## This is the modpack for the NicoModed Server
 
 How to install:
 1. Get the Forge Installer from http://files.minecraftforge.net/
